@@ -1,0 +1,6 @@
+check: git status
+
+edit:
+git add .
+git commit -m "komenter commit"
+git push origin main
